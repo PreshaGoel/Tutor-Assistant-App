@@ -1,0 +1,12 @@
+export const primaryColor = '#6A5ADF';
+export const secondaryColor = '#8476E9';
+export const textColor = '#2C2C2C';
+export const greyColor = '#8C8C8C';
+export const lightGrey = '#cdcdcd';
+export const dangerText = '#f00';
+export const lightPurple = '#cab3f4';
+export const lightPink = '#ffccd5';
+export const pinkText = '#ca8b99';
+export const darkPink = '#530c1a';
+export const circularunFill = '#fca9b8';
+export const circularFill = '#f56780';
